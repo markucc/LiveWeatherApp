@@ -1,3 +1,5 @@
+rootProject.name = "LiveWeatherApp"
+
 pluginManagement {
     repositories {
         google()
@@ -13,6 +15,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LiveWeatherApp"
 include(":app")
  
